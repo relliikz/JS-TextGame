@@ -1,0 +1,21 @@
+#SideMenu{
+    position: absolute;
+    width: 450px;
+    height: 1000px;
+}
+
+#MainMenu{
+    position: absolute;
+    width: 800px;
+    height: 1000px;
+}
+
+#gameArt{
+    height: 300px;
+}
+
+#gameTextDiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:azure;
+}
